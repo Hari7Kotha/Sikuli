@@ -1,0 +1,33 @@
+:::Jar already downloaded, launching jetty server...:::
+:::Starting jetty server...:::
+:::Making Request to Service: http://localhost:8080/sikuli/api/wait POST: {"jPattern":{"imagePath":"C:\\Users\\chand\\Desktop\\SikuliTry\\SikuliPattens\\UserName.PNG","offset_x":0,"offset_y":0,"similar":0.7},"timeout":500.0}:::
+:::{"result":"PASS","message":"Pattern Found"}:::
+:::Result: PASS Message: Pattern Found Stacktrace: :::
+:::Making Request to Service: http://localhost:8080/sikuli/api/type POST: {"jPattern":{"imagePath":"C:\\Users\\chand\\Desktop\\SikuliTry\\SikuliPattens\\UserName.PNG","offset_x":0,"offset_y":0,"similar":0.7},"jKeyModifier":"NONE","text":"hari77chandana@gmail.com"}:::
+:::{"result":"PASS","message":"Pattern Typed in"}:::
+:::Result: PASS Message: Pattern Typed in Stacktrace: :::
+:::Making Request to Service: http://localhost:8080/sikuli/api/wait POST: {"jPattern":{"imagePath":"C:\\Users\\chand\\Desktop\\SikuliTry\\SikuliPattens\\Password.PNG","offset_x":0,"offset_y":0,"similar":0.7},"timeout":500.0}:::
+:::{"result":"PASS","message":"Pattern Found"}:::
+:::Result: PASS Message: Pattern Found Stacktrace: :::
+:::Making Request to Service: http://localhost:8080/sikuli/api/type POST: {"jPattern":{"imagePath":"C:\\Users\\chand\\Desktop\\SikuliTry\\SikuliPattens\\Password.PNG","offset_x":0,"offset_y":0,"similar":0.7},"jKeyModifier":"NONE","text":"Test_123"}:::
+:::{"result":"PASS","message":"Pattern Typed in"}:::
+:::Result: PASS Message: Pattern Typed in Stacktrace: :::
+:::Making Request to Service: http://localhost:8080/sikuli/api/wait POST: {"jPattern":{"imagePath":"C:\\Users\\chand\\Desktop\\SikuliTry\\SikuliPattens\\LoginBtn.PNG","offset_x":0,"offset_y":0,"similar":0.7},"timeout":500.0}:::
+:::{"result":"PASS","message":"Pattern Found"}:::
+:::Result: PASS Message: Pattern Found Stacktrace: :::
+:::Making Request to Service: http://localhost:8080/sikuli/api/click POST: {"jPattern":{"imagePath":"C:\\Users\\chand\\Desktop\\SikuliTry\\SikuliPattens\\LoginBtn.PNG","offset_x":0,"offset_y":0,"similar":0.7},"jKeyModifier":"NONE"}:::
+:::{"result":"PASS","message":"Pattern Clicked"}:::
+:::Result: PASS Message: Pattern Clicked Stacktrace: :::
+:::Making Request to Service: http://localhost:8080/sikuli/api/wait POST: {"jPattern":{"imagePath":"C:\\Users\\chand\\Desktop\\SikuliTry\\SikuliPattens\\GeofenceLink.PNG","offset_x":0,"offset_y":0,"similar":0.7},"timeout":500.0}:::
+:::{"result":"PASS","message":"Pattern Found"}:::
+:::Result: PASS Message: Pattern Found Stacktrace: :::
+:::Making Request to Service: http://localhost:8080/sikuli/api/click POST: {"jPattern":{"imagePath":"C:\\Users\\chand\\Desktop\\SikuliTry\\SikuliPattens\\GeofenceLink.PNG","offset_x":0,"offset_y":0,"similar":0.7},"jKeyModifier":"NONE"}:::
+:::{"result":"PASS","message":"Pattern Clicked"}:::
+:::Result: PASS Message: Pattern Clicked Stacktrace: :::
+:::Making Request to Service: http://localhost:8080/sikuli/api/wait POST: {"jPattern":{"imagePath":"C:\\Users\\chand\\Desktop\\SikuliTry\\SikuliPattens\\AddFence.PNG","offset_x":0,"offset_y":0,"similar":0.7},"timeout":800.0}:::
+:::{"result":"PASS","message":"Pattern Found"}:::
+:::Result: PASS Message: Pattern Found Stacktrace: :::
+:::Making Request to Service: http://localhost:8080/sikuli/api/click POST: {"jPattern":{"imagePath":"C:\\Users\\chand\\Desktop\\SikuliTry\\SikuliPattens\\AddFence.PNG","offset_x":0,"offset_y":0,"similar":0.7},"jKeyModifier":"NONE"}:::
+:::{"result":"PASS","message":"Pattern Clicked"}:::
+:::Result: PASS Message: Pattern Clicked Stacktrace: :::
+:::Making Request to Service: http://localhost:8080/sikuli/api/wait POST: {"jPattern":{"imagePath":"C:\\Users\\chand\\Desktop\\SikuliTry\\SikuliPattens\\Navigate.PNG","offset_x":0,"offset_y":0,"similar":0.7},"timeout":500.0}:::
